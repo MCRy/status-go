@@ -9,6 +9,7 @@
 
 # Docs
 
-- [How To Build](https://github.com/status-im/status-go/wiki/Build-Process-Explained)
-- [Notes on Bindings](https://github.com/status-im/status-go/wiki/Notes-on-Bindings)
-- [Developers' Guide](https://github.com/status-im/status-react/wiki/Developers'-Guide)
+- [编译说明](https://github.com/status-im/status-go/wiki/Build-Process-Explained)
+- [Binding须知](https://github.com/status-im/status-go/wiki/Notes-on-Bindings)
+- [直接查看Binding导出的方法](https://github.com/MCRy/status-go/blob/master/cmd/status/library.go)
+- [Developers' Guide(react-native编译客户端)](https://github.com/status-im/status-react/wiki/Developers'-Guide)
